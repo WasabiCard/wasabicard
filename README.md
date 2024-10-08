@@ -19,9 +19,9 @@ WasabiCard （芥末卡虚拟信用卡）是一家香港公司推出的虚拟卡
 ## WasabiCard 开卡费用说明
 
 <br/>[美元 Master、Visa 预付卡开卡费用：](https://wasabicard.com/zh-CN/signup?ref=vm10z2tk9a)<br/>
-1.开卡费包含 [5USDT](https://wasabicard.com/zh-CN/signup?ref=vm10z2tk9a) Lv2 身份认证费用由发卡方收取，认证失败该费用无法退回，请知悉<br/>
-2.GBP 借记卡退款的处理时间较长，除非必要，建议避免涉及退款的消费<br/>
-3.[转账支持：](https://wasabicard.com/zh-CN/signup?ref=vm10z2tk9a) 英国 FPS（英镑转英镑），欧盟 SePA，还有 swift 微信/支付宝（所有币种）<br/>
+1.开卡费包含 [1-10USDT](https://wasabicard.com/zh-CN/signup?ref=vm10z2tk9a)<br/>
+2.退款的处理时间较长，除非必要，建议避免涉及退款的消费<br/>
+3.[转账支持：](https://wasabicard.com/zh-CN/signup?ref=vm10z2tk9a)  微信/支付宝（所有币种）<br/>
 4.请合法、合规使用 IBAN，如触发风控，银行可能会进行关户处理<br/>
 5.[实体卡支持国内 ATM 取现与刷卡消费](https://wasabicard.com/zh-CN/signup?ref=vm10z2tk9a)，每笔充值需要银行审核，请耐心等待<br/>
 
